@@ -8,11 +8,11 @@ How do German automobile manufacturers compare to both international competitors
 
 To do so I compute and visualize some key metrics, like Moving Averages and Volatility:
 
-![image](https://github.com/user-attachments/assets/77f518e0-678e-4093-be7b-d4f0d5883dbd)
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/77f518e0-678e-4093-be7b-d4f0d5883dbd" />
 
 To compare the stocks with the DAX, I calculated the Alpha and Beta values for each, enabling an analysis of their respective risk and volatility:
 
-![image](https://github.com/user-attachments/assets/805cd35e-c7a2-4ef5-80e2-c0a53dee129d)
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/805cd35e-c7a2-4ef5-80e2-c0a53dee129d" />
 
 Lastly the stocks get compared to international competitors Tesla and Toyota: 
 
