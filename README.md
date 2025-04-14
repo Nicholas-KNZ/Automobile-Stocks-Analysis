@@ -1,4 +1,4 @@
-Stock Analysis of Germany’s Automobile Industry
+# Stock Analysis of Germany’s Automobile Industry
 
 The project examines the stock performance of major German automobile manufacturers—BMW, Mercedes-Benz, Porsche, and Volkswagen —over the last quarter. The analysis aims to address the following key questions:
 
